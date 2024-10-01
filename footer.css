@@ -1,0 +1,9 @@
+footer{
+    background-color: bisque;
+    color: black;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    text-align: center;
+    font: 500px;
+}

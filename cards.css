@@ -1,0 +1,28 @@
+.product-grid{
+    padding:20px;
+    text-align: center;
+}
+.product-grid{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.product-card{
+    border:1px solid bisque;
+    width: 100%;
+    height:auto;
+}
+.product-card button{
+    margin-top:10px;
+    padding: 10px 20px;
+    background-color: bisque;
+    color:bisque;
+}
+.product-card button:hover{
+    background-color: grey;    
+}
+.product-card img{
+    border:1px solid #ccc;
+    width:100%;
+    height:auto;
+}
